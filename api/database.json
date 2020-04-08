@@ -1,0 +1,13 @@
+{
+  "productTypes": [
+      { "id": 1, "name": "Candy" },
+      { "id": 2, "name": "Electronics" }
+  ],
+  "products": [
+      { "id": 1, "name": "Lollipop", "price": 1.49, "productTypeId": 1 },
+      { "id": 2, "name": "iPad", "price": 799.99, "productTypeId": 2 },
+      { "id": 3, "name": "Snickers", "price": 1.79, "productTypeId": 1 },
+      { "id": 4, "name": "Baby Ruth", "price": 1.79, "productTypeId": 1 },
+      { "id": 5, "name": "Xbox One", "price": 216.49, "productTypeId": 2 }
+  ]
+}
